@@ -45,6 +45,13 @@
 				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Game-Wallz/master/Wallpapers/Assassins%20Creed/Thumbnails/5_t.jpg?token=AcJtvzdvoJC-NzMDugqeVX8pttPIOAB1ks5bE9fpwA%3D%3D",
 				"name": "Lion",
                 "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://drive.google.com/open?id=1EtOGZB2bXRQ--fxLfDlpzjRzngSBmSZk",
+				"thumbUrl": "https://drive.google.com/open?id=1zNi0AxIyZ8cgim63X-cFDpZWAvALnLik",
+				"name": "ship",
+                "category": "AssassinsCreed"
 			}
 		]
 }
