@@ -1,0 +1,85 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Assassin's Creed Origins"
+            },
+            {
+                "name": "Batman"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/1_t.jpg",
+				"name": "Torch",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/2_t.jpg",
+				"name": "Horse",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/3_t.jpg",
+				"name": "Sunshine",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/4_t.jpg",
+				"name": "Torch",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/5_t.jpg",
+				"name": "Lion Attire",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/6.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/6_t.jpg",
+				"name": "Ship Shore",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/7.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/7_t.jpg",
+				"name": "He's An Archer",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/8.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/8_t.jpg",
+				"name": "An Eagle Friend",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/9.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/9_t.jpg",
+				"name": "Random Click",
+                "category": "AssassinsCreed"
+			},
+			{
+				"author": "TechnoHart",
+				"url": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/TechnoBeat99/Temp/master/Wallpapers/Assassins%20Creed/Thumbnails/10_t.jpg",
+				"name": "Screaming Colours",
+                "category": "AssassinsCreed"
+			}
+		]
+}
